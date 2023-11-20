@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AhmedAnan22
+- 👋 Hi, I’m Quazi Hasin Ahmed Anan
 - 👀 I’m interested in creating codes related to Finance & Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Financial Engineering Projects & Analysis
